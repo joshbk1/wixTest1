@@ -1,0 +1,61 @@
+HTTrack3.49-2 launched on Tue, 24 May 2022 18:34:17 at https://joshbk1.wixsite.com/joshtutor +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://joshbk1.wixsite.com/joshtutor -O "/Users/Admin/websites/wixtry2" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:35:07	Warning: 	Unexpected socket error during pre-loop
+18:37:02	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/decodeURIComponent(e (from https://joshbk1.wixsite.com/joshtutor)
+18:37:02	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/ (from https://joshbk1.wixsite.com/joshtutor)
+18:37:42	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/decodeURIComponent(e (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:37:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://polyfill.io/v3/polyfill.min.js?features=fetch
+18:38:47	Warning: 	HTML file (2935 bytes) retransferred due to lack of cache: https://joshbk1.wixsite.com/decodeURIComponent(e
+18:38:48	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/decodeURIComponent(e (from https://joshbk1.wixsite.com/joshtutor)
+18:39:47	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/sitemap.xml (from https://joshbk1.wixsite.com/joshtutor)
+18:39:49	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/feed.xml (from https://joshbk1.wixsite.com/joshtutor)
+18:39:51	Warning: 	Retry after error -4 (Receive Error) at link https://static.parastorage.com/unpkg/react@16.13.1/umd/react.production.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:39:51	Warning: 	HTML file (2935 bytes) retransferred due to lack of cache: https://joshbk1.wixsite.com/
+18:39:52	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/ (from https://joshbk1.wixsite.com/joshtutor)
+18:40:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/16e44c05.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:40:50	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/da6c52cb.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:41:33	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/b604fd33.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:41:38	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/45242c23.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:41:45	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/7c602eb2.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:41:49	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/5b26625f.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:42:20	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/f52e40aa.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:42:28	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/47b73115.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:42:34	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/430436e2.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/fdb8d3c8.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.7d3d63aa.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.fdb8d3c8.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~common-site-members-dialogs.fd411e5f.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/rb_wixui.thunderbolt~bootstrap.430436e2.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor)
+18:42:36	Warning: 	HTML file (335228 bytes) retransferred due to lack of cache: https://joshbk1.wixsite.com/joshtutor?wix-vod-video-id=4f8ed361a9a34b2bbfb142b99063ca99&wix-vod-comp-id=comp-l3j3ffvz
+18:42:42	Warning: 	HTML file (2936 bytes) retransferred due to lack of cache: https://joshbk1.wixsite.com/joshtutor/decodeURIComponent(e
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/decodeURIComponent(e (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/robots.txt (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/feed.xml (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/16e44c05.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/da6c52cb.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/b604fd33.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/45242c23.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/5b26625f.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/47b73115.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/430436e2.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/fdb8d3c8.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~bootstrap-classic.14191956.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~bootstrap-responsive.a66c1914.chunk.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~bootstrap-responsive.fdb8d3c8.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~bootstrap.430436e2.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor/blank-1)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/7c602eb2.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-5)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://joshbk1.wixsite.com/joshtutor/blank-5)
+18:42:43	Error: 	"Not Found" (404) at link https://joshbk1.wixsite.com/joshtutor/rb_wixui.thunderbolt~common-site-members-dialogs.fd411e5f.chunk.min.js (from https://joshbk1.wixsite.com/joshtutor/blank-5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 26 seconds : 82 links scanned, 47 files written (6500904 bytes overall) [2545386 bytes received at 5030 bytes/sec], 5404127 bytes transferred using HTTP compression in 64 files, ratio 24%, 1.8 requests per connection
+(43 errors, 7 warnings, 0 messages)
